@@ -1,0 +1,116 @@
+@font-face {
+    font-family: mapsTrackFont;
+    src: url(../fonts/Montserrat-Light.otf);
+
+}
+
+
+.scrolled #fh5co-menu  {
+    display: none;
+}
+
+#fh5co-features {
+    display: none;
+}
+
+#fh5co-features-2 {
+    padding: 4em 0;
+}
+
+#fh5co-faqs {
+    padding: 4em 0;
+
+}
+
+.logoName {
+    font-family: mapsTrackFont, "Open Sans", Arial, sans-serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: white;
+    font-weight: 600;
+}
+
+.fh5co-section-heading .fh5co-lead {
+    font-family: mapsTrackFont, "Open Sans", Arial, sans-serif;
+    font-size: 30px;
+}
+
+.fh5co-section-heading .fh5co-sub {
+    font-family: mapsTrackFont, "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+}
+
+.fh5co-uppercase-sm {
+    font-family: mapsTrackFont, "Open Sans", Arial, sans-serif;
+}
+
+.appFeaturesDescription {
+    font-family: mapsTrackFont, "Open Sans", Arial, sans-serif;
+    font-size: 13px;
+}
+
+
+#fh5co-faqs .faq-accordion h3 {
+    color: #3f51b5;
+    font-size: 18px;
+}
+
+#fh5co-faqs .faq-accordion.active h3 {
+    color: #3f51b5;
+}
+
+#fh5co-faqs .faq-accordion {
+    padding: 20px;
+}
+
+#fh5co-faqs .faq-accordion .faq-accordion-icon-toggle i {
+    color: #3f51b5;
+    font-size: 18px;
+}
+
+.fh5co-section-heading {
+    margin-bottom: 3em;
+}
+
+#fh5co-footer {
+    position: absolute;
+    padding: 1em 0;
+}
+
+#fh5co-footer .container .row > div {
+    margin-bottom: 0px;
+}
+
+#fh5co-wrap {
+    margin-bottom: 60px;
+}
+
+.fh5co-copyright {
+    margin-bottom: 0px;
+}
+
+#fh5co-hero .fh5co-overlay {
+    background: none;
+}
+
+#fh5co-hero {
+    background: none;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    height: 100%;
+}
+
+.fh5co-nav-toggle {
+    top: 0px;
+    padding: 0px;
+}
+
+.fh5co-nav-toggle > span {
+    margin-top: 3px;
+}
+
+.comingSoon {
+    font-family: mapsTrackFont, "Open Sans", Arial, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
