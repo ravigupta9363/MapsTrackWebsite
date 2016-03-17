@@ -1652,7 +1652,8 @@ mark,
 
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #30beac;
+
+  color: #1b2454;
 }
 
 .text-success {
@@ -1701,7 +1702,8 @@ a.text-danger:focus {
 
 a.bg-primary:hover,
 a.bg-primary:focus {
-  background-color: #30beac;
+    color: white;
+  background-color: #1b2454;
 }
 
 .bg-success {
@@ -3745,17 +3747,17 @@ a.btn.disabled, fieldset[disabled] a.btn {
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #30beac;
+  background-color: #1b2454;
   border-color: #1c6c62;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #30beac;
+  background-color: #1b2454;
   border-color: #29a192;
 }
 .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #30beac;
+  background-color: #1b2454;
   border-color: #29a192;
 }
 .btn-primary:active:hover, .btn-primary:active:focus, .btn-primary:active.focus, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus, .open > .btn-primary.dropdown-toggle:hover, .open > .btn-primary.dropdown-toggle:focus, .open > .btn-primary.dropdown-toggle.focus {
@@ -5374,7 +5376,7 @@ a.label:hover, a.label:focus {
   background-color: #4fd2c2;
 }
 .label-primary[href]:hover, .label-primary[href]:focus {
-  background-color: #30beac;
+  background-color: #1b2454;
 }
 
 .label-success {
@@ -7651,7 +7653,8 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .05em;
 }
 #fh5co-hero .fh5co-intro .btn {
-  background: #30beac;
+    color:white;
+  background: #1b2454;
 }
 #fh5co-hero .fh5co-intro .btn i {
   font-size: 20px;
@@ -7786,7 +7789,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  background: #30beac;
+  background: #1b2454;
 }
 #fh5co-subscribe .btn i {
   font-size: 20px;
@@ -8303,7 +8306,8 @@ pre {
 }
 .btn:hover, .btn:focus, .btn:active {
   outline: none !important;
-  background: #30beac !important;
+  background: #1b2454 !important;
+  color:white;
   border-color: transparent !important;
 }
 .btn:hover {
@@ -8369,7 +8373,7 @@ pre {
 .form-control:hover, .form-control:focus, .form-control:active {
   outline: none;
   box-shadow: none !important;
-  border: 2px solid #4fd2c2;
+
 }
 
 .btn-sm, .btn-group-sm > .btn {
